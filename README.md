@@ -24,8 +24,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Demonstration
 - LP
+  
   ![image](https://github.com/leo-tech313/var-test-4-1/assets/96694509/8188a4bf-ace4-433c-8c54-2c78802a253b)
 
-
 - SP
+  
   ![image](https://github.com/leo-tech313/var-test-4-1/assets/96694509/a1f60c76-bd28-4f34-a59a-55ebca306dd4)
